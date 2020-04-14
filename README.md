@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Unit and Integration Testing 
+
+learn from an online course how to test react apps using jest and enzyme
+
 
 ## Available Scripts
 
